@@ -1,0 +1,5 @@
+aiogram>=3.13
+libsql-client>=0.3
+aiohttp>=3.10
+python-dotenv>=1.0
+telethon>=1.36
